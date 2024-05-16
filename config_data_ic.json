@@ -1,0 +1,68 @@
+{
+    "match_on_x": [
+        [
+            "xm14",
+            "xm1"
+        ],
+        [
+            "xm12",
+            "xm3"
+        ],
+        [
+            "xm13",
+            "xm2"
+        ]
+    ],
+    "match_on_y": [
+        [
+            "xm9",
+            "xm7"
+        ],
+        [
+            "xm10",
+            "xm11"
+        ],
+        [
+            "xm5",
+            "xm6"
+        ],
+        [
+            "xm2",
+            "xm3"
+        ],
+        [
+            "xm1",
+            "xm3"
+        ],
+        [
+            "xm12",
+            "xm13"
+        ],
+        [
+            "xm12",
+            "xm14"
+        ],
+        [
+            "xm4",
+            "xm8"
+        ]
+    ],
+    "important_paths": [
+        [
+            "xm9",
+            "xm10",
+            "xm12",
+            "xm3"
+        ],
+        [
+            "xm9",
+            "xm11",
+            "xm13",
+            "xm2"
+        ]
+    ],
+    "size_unit": "micro",
+    "min_diff_dist": "0.02",
+    "gate_out_height": "0.005",
+    "diff_side_width": "0.04"
+}
